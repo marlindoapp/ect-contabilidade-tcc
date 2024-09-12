@@ -1,0 +1,6 @@
+[submodule "ect-contabilidade-front"]
+	path = ect-contabilidade-front
+	url = https://github.com/Peu06/ect-contabilidade-tcc
+[submodule "ect-contabilidade-email"]
+	path = ect-contabilidade-email
+	url = https://github.com/Peu06/ect-contabilidae-email
